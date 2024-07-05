@@ -1,3 +1,5 @@
+總之就是用 c 刻的類神經網路，c 比 c++ 刻起來麻煩太多了 = =
+
 It is a lightweight neural network framework implemented in C. It provides functionalities to create, train, and use neural networks for various machine learning tasks.
 
 ## Features
